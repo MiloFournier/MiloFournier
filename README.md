@@ -15,7 +15,7 @@
 ---
 
 ### 👨🏼‍💻 About Me :
-I am a french 🇫🇷 student in computer science and information technologies at the National Institute of Applied Sciences of Lyon.
+I am a french 🇫🇷 student in Computer Science and information technologies at the National Institute of Applied Sciences of Lyon. I also study Data Science at SDU Odense in Denmark for a year.
 - 📫 You can reach me on LinkedIn : www.linkedin.com/in/milo-fournier
 
 ---
@@ -41,17 +41,15 @@ I am a french 🇫🇷 student in computer science and information technologies 
 </div>
 
 ---
-
+<!--
 ### :fire: My Stats :
 <div align="center">
-  
-  <!--![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiloFournier&theme=dark&background=000000)-->
 
   ![Milo Fournier's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiloFournier&show_icons=true&theme=tokyonight)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiloFournier&layout=compact&langs_count=8)
 </div>
-
+-->
 
 
 
