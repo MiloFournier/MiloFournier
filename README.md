@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> -->
   <h1>
     Hi, my name is Milo 👋
   </h1>
@@ -7,14 +7,14 @@
 
 ---
 
-### 👨🏼‍💻 About Me :
+## 👨🏼‍💻 About Me :
 I am a French 🇫🇷 student in Computer & Data Science at the National Institute of Applied Sciences of Lyon. I am currently studying Data Science at SDU Odense in Denmark 🇩🇰 for a year.
 - 📫 You can reach me on LinkedIn: www.linkedin.com/in/milo-fournier
 - 📧 Or by email: milo.fournier@gmail.com
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
