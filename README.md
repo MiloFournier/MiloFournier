@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> -->
-  <h1>
-    Hi, my name is Milo 👋
-  </h1>
+  <h1> Hi, my name is Milo 👋 </h1>
 </div>
 
 ---
