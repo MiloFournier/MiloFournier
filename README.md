@@ -6,7 +6,7 @@
 ---
 
 ## 👨🏼‍💻 About Me:
-I am a French 🇫🇷 student in Computer & Data Science at the National Institute of Applied Sciences of Lyon. I am currently studying Data Science at SDU Odense in Denmark 🇩🇰 for a year.
+I am a French 🇫🇷 student in Computer & Data Science at the National Institute of Applied Sciences of Lyon. I was an exchange student studying Data Science at SDU Odense in Denmark 🇩🇰 for a year.
 - 📫 You can reach me on LinkedIn: www.linkedin.com/in/milo-fournier
 - 📧 Or by email: milo.fournier@gmail.com
 
